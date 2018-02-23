@@ -1,4 +1,4 @@
-<h1>Welcome to SLB!</h1>
+<h1>Hello Web</h1>
 <hr/>
 <h3>Current Backend Server Info</h3>
 <?php
