@@ -11,7 +11,7 @@ docker run -d -p 8088:80 zhangsean/hello-web
 
 Visit http://docker-server-ip:8088/ you will see a page like this:
 
-![screen1.png](https://raw.githubusercontent.com/zhangsean/hello-web/master/screen1.png)
+![screen.png](https://raw.githubusercontent.com/zhangsean/hello-web/master/screen.png)
 
 To use this web server as a K8S service.
 
