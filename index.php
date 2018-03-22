@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" href="icon.png" />
 <h1>Hello Web</h1>
 <hr/>
 <h3>Current Backend Server Info</h3>
